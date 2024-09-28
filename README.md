@@ -31,7 +31,8 @@
 
 <div align="center"> 
 	
- 
+ 	
+ [_Strawpage 4 cool gimmicks_](https://skibidisigmaa.straw.page/)
 
 
 ![](https://komarev.com/ghpvc/?username=GabbyMe0w&label=💜&style=for-the-badge&color=c269fa)
