@@ -5,14 +5,14 @@
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/9430dfc0091685b7e0f5140a6d94f108/ffef7e8029b7971b-ae/s400x600/8b14ab1f30c75c814cc5aa0d8c6ca580e4f662cd.gifv"
+	<img width = "850" src="https://wilardo.crd.co/assets/images/gallery22/3d69e579.png?v=bca827db"
 </div>
 
 
 
 
 <div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/753c0de9649a2f734dd6564fc4dfb4cf/8479f4acb1822032-81/s540x810/5d385027020ce6736b0a5ae498fe0245732d5bad.pnj"
+	<img width = "555" src="https://64.media.tumblr.com/322a49841f620d6ad1a80cd8ef47c08a/3ccdb8309ae367eb-7c/s400x600/bca814e15529de3c9ecfa92207ed8969e083f34d.pnj"
 </div>
 
 
@@ -21,7 +21,7 @@
 
 
 <div align="center">
-	<img width = "500" src="https://media.discordapp.net/attachments/1267905547181752331/1289732479519031347/blur_edges_2.png?ex=66f9e479&is=66f892f9&hm=dd74f92de0e7a6c129c330cb54b92bab64760bedb890dee0943514f120ad9cbe&=&format=webp&quality=lossless&width=566&height=565"
+	<img width = "500" src="https://media.discordapp.net/attachments/1268306594047721544/1290113682789105684/blur_edges_7.png?ex=66fb477f&is=66f9f5ff&hm=79b6f4445f0ffabb018818969c54a595389cde1fef17e8d02328ef56b8f1142f&=&format=webp&quality=lossless&width=562&height=565"
 
 </div>
 
@@ -32,13 +32,13 @@
 <div align="center"> 
 	
  	
- [_Strawpage 4 cool gimmicks_](https://skibidisigmaa.straw.page/)
+ [strawpage 4 awesome drawings ^^ ](https://skibidisigmaa.straw.page/)
 
 
-![](https://komarev.com/ghpvc/?username=GabbyMe0w&label=💜&style=for-the-badge&color=c269fa)
+![](https://komarev.com/ghpvc/?username=GabbyMe0w&label=🌙&style=for-the-badge&color=7aaede)
 
 <div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/74fa69f716cbc6f640459a48b5fe0fcc/3fde4da2146e9e84-c7/s540x810/f6b4030a30a52410a0fcb409decae69a10da398b.pnj"
+	<img width = "555" src="https://64.media.tumblr.com/322a49841f620d6ad1a80cd8ef47c08a/3ccdb8309ae367eb-7c/s400x600/bca814e15529de3c9ecfa92207ed8969e083f34d.pnj"
 </div>
 
 
@@ -47,7 +47,7 @@
 
 
 <div align="center">
-	<img width = "860" src="https://64.media.tumblr.com/9430dfc0091685b7e0f5140a6d94f108/ffef7e8029b7971b-ae/s400x600/8b14ab1f30c75c814cc5aa0d8c6ca580e4f662cd.gifv"
+	<img width = "860" src="https://wilardo.crd.co/assets/images/gallery22/3d69e579.png?v=bca827db"
 </div>
 
 
